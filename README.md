@@ -1,7 +1,7 @@
 # How To Compile An ARM64 File Into x86 Assembly
 
 <p align="center">
-    <img src="images/apple-to-intel.jpg" height="300">
+    <img src="images/apple-to-intel.jpg">
 </p>
 
 ## Introduction
