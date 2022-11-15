@@ -44,7 +44,7 @@ This short tutorial is for anyone who wants to compile to x86 assembly on an ARM
 
 7. Now we could see inside the directory a file called **main.s** let's open it with an editor:
 
-    ```ARM64
+    ```assembly
         .section	__TEXT,__text,regular,pure_instructions
         .build_version macos, 13, 0	sdk_version 13, 0
         .globl	_main                           ; -- Begin function main
