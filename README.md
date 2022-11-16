@@ -27,7 +27,7 @@ This short tutorial is for anyone who wants to compile to x86 assembly on an ARM
    vim main.c
    ```
     > **NOTE**: In this tutorial we are using **Vim editor** because it is a small program that can run in a terminal. But you can use any other editor like nano, visual studio code, or something else.
-5. Perfect! We have a C file but is empty, so let's write a simple program (obviously Hello World 🧐):
+5. Perfect! We have a C file but it is empty, so let's write a simple program (obviously Hello World 🧐):
     ```c
     #include <stdio.h>
 
